@@ -1,23 +1,23 @@
 {
-    "1443761128206504027": {
-        "credits": 0,
-        "threads": 1,
-        "accounts": 1
-    },
-    "1278433129593307187": {
-        "credits": -1,
-        "threads": null,
-        "accounts": null
-    },
-    "899942190510379029": {
-        "credits": -1,
-        "threads": null,
-        "accounts": null
-    },
-    "761972579631366155": {
-        "credits": 0
-    },
-    "125377123362930688": {
-        "credits": 0
-    }
+  "1443761128206504027": {
+    "credits": 0,
+    "threads": 1,
+    "accounts": 1
+  },
+  "1278433129593307187": {
+    "credits": -1,
+    "threads": null,
+    "accounts": null
+  },
+  "899942190510379029": {
+    "credits": -1,
+    "threads": null,
+    "accounts": null
+  },
+  "761972579631366155": {
+    "credits": 0
+  },
+  "125377123362930688": {
+    "credits": 0
+  }
 }
